@@ -4,7 +4,6 @@
 --sql hist ---
 -- This is an update.,..This is an further Update
 --
--- This is an further updatezzzzzz  fsfsdfsfsfsf
 
 SELECT DISTINCT 
     v.first_load_time,
